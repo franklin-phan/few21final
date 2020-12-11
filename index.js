@@ -22,3 +22,5 @@ module.exports.GoldenRatio = GoldenRatio;
 module.exports.DegreesToRadians = DegreesToRadians;
 module.exports.RadiansToDegrees = RadiansToDegrees;
 module.exports.Dollars = Dollars;
+
+//added typescript
